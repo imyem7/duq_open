@@ -1,4 +1,4 @@
-### duq_open
+# duq_open
  
 ### Welcome to our Github page!
 
